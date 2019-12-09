@@ -1,2 +1,2 @@
 # hello-word
-I just want tp learn Javascript
+I just want to learn Javascript
